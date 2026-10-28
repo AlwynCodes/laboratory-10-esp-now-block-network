@@ -9,5 +9,5 @@
 
 ## Evidence
 
-- [screenshot.png](screenshot.png)
-- [video.mp4](video.mp4)   
+- [SERIAL-MONITOR-BOARD-COUNT-AND-MAC-ADDRESS.png](screenshot.png)
+- [SERIAL-MONITOR.mp4](video.mp4)   
