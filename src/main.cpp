@@ -50,7 +50,7 @@ void setup() {
     Serial.println("ESP-NOW init failed");
     return;
   }
-
+//CANT FIND YET NO OTHER DEVICE NEARBY 
   esp_now_register_recv_cb(onReceive);
   esp_now_register_send_cb(onSent);
 
